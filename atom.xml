@@ -4,12 +4,23 @@
   <title>My Hacking Blog</title>
   <link href="http://davidakachaos.github.com/atom.xml" rel="self"/>
   <link href="http://davidakachaos.github.com/"/>
-  <updated>2011-08-22T13:03:50+02:00</updated>
+  <updated>2011-08-22T14:03:18+02:00</updated>
   <id>http://davidakachaos.github.com/</id>
   <author>
     <name>David Westerink</name>
     
   </author>
 
+  
+  <entry>
+    <title>Purpose of This Blog</title>
+    <link href="http://davidakachaos.github.com/blog/2011/08/22/purpose-of-this-blog/"/>
+    <updated>2011-08-22T13:42:00+02:00</updated>
+    <id>http://davidakachaos.github.com/blog/2011/08/22/purpose-of-this-blog</id>
+    <content type="html">&lt;p&gt;Okay, so I have this new blog on &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and I intent to use this space for thing I come across in my life as an Ruby On Rails developer. Also I might note some links/snippets here for public use and reference. If you have any handy tips, snippets or just want a shout out please &lt;a href=&quot;http://twitter.com/home?status=@davidakachaos&quot;&gt;@davidakachaos on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I'm creating this blog with &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt; a fine tool for creating an simple blog.&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
