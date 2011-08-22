@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>My Hacking Blog</title>
+  <link href="http://davidakachaos.github.com/atom.xml" rel="self"/>
+  <link href="http://davidakachaos.github.com/"/>
+  <updated>2011-08-22T13:03:50+02:00</updated>
+  <id>http://davidakachaos.github.com/</id>
+  <author>
+    <name>David Westerink</name>
+    
+  </author>
+
+  
+</feed>
